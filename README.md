@@ -10,8 +10,7 @@ To propose a new dataset be added to the Nordic Pile, [open an issue](https://gi
 Your issue should include a description of the dataset, its size, what language(s) it is in, 
 a link to the data, and any other relevant information. If a project manger approves your proposal, 
 they will change its label to [![Datasets](https://img.shields.io/github/labels/EleutherAI/The-Pile/Dataset)](https://github.com/EleutherAI/The-Pile/labels/Dataset) and add it to [![Project: Datasets](https://img.shields.io/badge/Project-Datasets-lightgrey)](https://github.com/EleutherAI/The-Pile/projects/2). Datasets that we elect to not include in the current version of the Pile will receive a [![Deferred](https://img.shields.io/github/labels/EleutherAI/The-Pile/Deferred%20to%20v2)](https://github.com/EleutherAI/The-Pile/labels/Deferred%20to%20v2) or [![Declined](https://img.shields.io/github/labels/EleutherAI/The-Pile/Declined)](https://github.com/ekgren/the-nordic-pile/labels/Declined) 
-label. While we welcome multilingual datasets and plan on including non-English datasets in the future, 
-the initial release of the Pile will be English-only and all submissions of non-English datasets will be deferred.
+label. We will now focus on datasets in the languages of the nordics: Swedish, Danish, Norwegian and Finnish.
 
 To claim responsibility for implementing an unclaimed dataset, 
 leave a comment on one of our unassigned issues. Once a dataset 
