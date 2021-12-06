@@ -39,3 +39,7 @@ This initiative is heavily inspired by Eleuther AIs The Pile project.
 | Wikipedia-Norwegian      | 🙋‍♀️ Waiting for contributor     |
 | Wikipedia-Finnish      | 🙋‍♀️ Waiting for contributor       |
 | Swedish Parliament   | 🙋‍♀️ Waiting for contributor        |
+
+## Pip Package
+The code is availabe and downloadable through pip
+https://pypi.org/project/the-nordic-pile/
