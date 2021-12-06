@@ -15,7 +15,7 @@ LONG_DESCRIPTION = 'A Nordic Text dataset'
 setup(
     name="tmh",
     version=VERSION,
-    author="Birger Moell, Ambika Kirkland, Johan Boye, Harm Lameris",
+    author="Ariel Ekgren, Birger Moell",
     author_email="<bmoell@kth.se>",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
