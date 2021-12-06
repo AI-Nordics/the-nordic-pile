@@ -13,7 +13,7 @@ LONG_DESCRIPTION = 'A Nordic Text dataset'
 
 # Setting up
 setup(
-    name="tmh",
+    name="tnp",
     version=VERSION,
     author="Ariel Ekgren, Birger Moell",
     author_email="<bmoell@kth.se>",
