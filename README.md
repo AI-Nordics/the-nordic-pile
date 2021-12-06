@@ -30,3 +30,12 @@ Data ready for final implementation should meet the following criteria:
 This initiative is heavily inspired by Eleuther AIs The Pile project.  
 [https://www.eleuther.ai/](https://www.eleuther.ai/)  
 [https://pile.eleuther.ai/](https://pile.eleuther.ai/)  
+
+## Datasets
+| Dataset      | Status |
+| ----------- | ----------- |
+| Wikipedia-Swedish      | 🙋‍♀️ Waiting for contributor      |
+| Wikipedia-Danish      | 🙋‍♀️ Waiting for contributor      |
+| Wikipedia-Norwegian      | 🙋‍♀️ Waiting for contributor     |
+| Wikipedia-Finnish      | 🙋‍♀️ Waiting for contributor       |
+| Swedish Parliament   | 🙋‍♀️ Waiting for contributor        |
