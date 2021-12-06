@@ -7,13 +7,13 @@ here = os.path.abspath(os.path.dirname(__file__))
 with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 DESCRIPTION = 'The Nordic Pile'
 LONG_DESCRIPTION = 'A Nordic Text dataset'
 
 # Setting up
 setup(
-    name="tnp",
+    name="the-nordic-pile",
     version=VERSION,
     author="Ariel Ekgren, Birger Moell",
     author_email="<bmoell@kth.se>",
