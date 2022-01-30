@@ -1,18 +1,25 @@
 
-# The Nordic Pile creation     
+# The Nordic Pile creation    
 
-This project is still in an early stage so feel free to drop a comment about anything or join the project because we can only create this with everyone's input. There is also a channel available on Discord for smoother communication: https://discord.gg/xVthZC9GW3
+For now we will start gathering text data in this google drive map:
+https://drive.google.com/drive/folders/1NCXyhQjocshHbbTponb68tU0baIVqK8X
+
+So click this link and request access with a short word about your data you want to upload. You will receive access and then you can dump the data that you have.
+
+Once we have a view on the currently available data, we can look into processing and public redistribution! :rocket:
+
+This project is still in an early stage so feel free to drop a comment about anything or join the project because we can only create this with everyone's input. There is also a channel available on Discord for smoother communication: https://discord.gg/xVthZC9GW3. If you would like to have strong influence on the structure of the data and the distribution method afterwards. Feel free to write this in the Discord channel such that we can setup a meeting all together to get the best possible structure for this dataset.
+
 ```diff
 + Github and readme is still work in progress.
 ```
-
 
 The Nordic Pile is a repository with the aim of providing tools and code to download and
 replicate a large nordic language dataset. The dataset consists of many smaller datasets combined together.
 With the objective to cover a broad set of language modalities.
 
-## Workflow (Trying out a scheme)
-
+---
+## Ignore: Workflow For Future Plans, when spreading to a wider public!
 To propose a new dataset to be added to the Nordic Pile, [open an issue](https://github.com/AI-Nordics/the-nordic-pile/issues/new).
 Your issue should include a description of the dataset, its size, what language(s) it is in, 
 a link to the data, and any other relevant information. If a project manger approves your proposal, 
